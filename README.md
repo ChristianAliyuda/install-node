@@ -1,2 +1,2 @@
 # install-node
-// Here is the commands for installation of node.
+// Here is the commands for installation of node.js .
